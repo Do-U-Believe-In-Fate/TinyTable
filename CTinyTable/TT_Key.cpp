@@ -1,0 +1,19 @@
+///////////////////////////////////////////////////////////
+//  TT_Key.cpp
+//  Implementation of the Class TT_Key
+//  Created on:      20-Apr-2018 18:18:20
+//  Original author: JS
+///////////////////////////////////////////////////////////
+
+#include "TT_Key.h"
+
+
+TT_Key::TT_Key(){
+
+}
+
+
+
+TT_Key::~TT_Key(){
+
+}
